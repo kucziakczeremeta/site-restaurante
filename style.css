@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #fffd7a;
+  background-color: #ffe415;
   color: white;
   text-align: center;
   padding: 40px 20px;
@@ -23,7 +23,7 @@ section {
   margin: 30px 0;
   background-color: #fff;
   padding: 20px;
-  border-left: 5px solid #dc771f;
+  border-left: 5px solid #fffd7a;;
   border-radius: 4px;
 }
 
