@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #ece369;
+  background-color: #e4df99;
   color: #333;
   padding: 20px;
 }
@@ -23,13 +23,13 @@ section {
   margin: 30px 0;
   background-color: #fff;
   padding: 20px;
-  border-left: 5px solid #fffd7a;;
+  border-left: 5px solid #eb9603;;
   border-radius: 4px;
 }
 
 h2 {
   margin-bottom: 10px;
-  color: #d35400;
+  color: #eb9603;
 }
 
 ul {
